@@ -1,0 +1,67 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "XtlabContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "BackendAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Cungcap]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Danhmuc]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Donhang]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DonhangChitiet]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Khachhang]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Nhanvien]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Sanpham]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Shippers]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "VNLAP03289.xtlab",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
